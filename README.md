@@ -1,2 +1,3 @@
 # Fayebest.github.io
-表白网站
+一个表白网站
+fayebest.github.io
